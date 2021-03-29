@@ -1,4 +1,7 @@
-box1
+585+634+611+856+895+970+2000 = 6551
+tbd: 3,4,5,9
+
+box1 29books $585
 the dawn of world railways. 1800-1850. O.S.Nock. $9
 railways in the years of pre-eminence. 1905-19. O.S.Nock. amz $4
 railways in the transition from steam. 1940-1965 O.S.Nock. amz $6
@@ -28,7 +31,7 @@ uintah railway. the gilsenite route. Hnery E Bender. amz $20
 early american locomotives. John H White Jr. amz $16
 prune country railroading (2 copies). Norman W Holmes. amz $55. ***
 
-box2
+box2 36 books $634
 southern pacific daylight vol 1 Richard K Wright. amz $42/ $100 like new
 american locomotive engineering. G Weissenborn amz $16
 southern pacific bay area steam. Harre W Demoro. amz $4/12good
@@ -120,7 +123,7 @@ the northwestern pacific railroad Fred A Stindt. amz $50
 logging by steam. Lingerwood.  amz $23/$9. new hard/soft
 reservation narrow gauge. John E Lewis. amz $50
 
-box6
+box6 23books $611
 the model railroading handbook.  1975 Robert Schleicher.  amz $2/40. soft/hard
 the complete book of model railroading. David Sutton amz $5
 the encyclopedia of model railroads Terry Allen amz $9 hard
@@ -145,7 +148,7 @@ the iron horse Henry B Comstock. amz $6
 american locomotive engineering companion text. G Weissenborn. amz $16
 railways Howard Loxton. amz $2
 
-box7
+box7  17books  $856
 lenahan's locomotive lexicon. 3rd edn vol II James Lenahan amz $22
 illustrated treasury of bladwin locomotives. 1831-1956. Jmaes W. Ker. amz $16/84. paper/hard prev version to 1936; abe $34 soft
 steamcars to the comstock Beebe Clegg amz $19

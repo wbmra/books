@@ -1,7 +1,7 @@
-585+634+611+856+895+970+2000 = 6551
-tbd: 3,4,5,9
+585+634+1810+417+611+856+895+324+970+2000 = 9103
+tbd: 3or4
 
-box1 29books $585
+box1 29 books $585
 the dawn of world railways. 1800-1850. O.S.Nock. $9
 railways in the years of pre-eminence. 1905-19. O.S.Nock. amz $4
 railways in the transition from steam. 1940-1965 O.S.Nock. amz $6
@@ -59,7 +59,7 @@ southern pacific 1967-1968 motive power annual Joseph A. Strapac  amz $45
 sawmills in the redwoods. Frank M Stranger amz. $20/80. 
 over the loop to the summit of mount mcclellan. Tammen amz $8
 
-box3
+box3. I AM CONFUSED - IS THIS BOX 3 OR 4 ????
 red river pul bunyan's own lumber company. Robert M Hanft
 denver south park & pacific. Kindig Laley Poor
 denver south park & pacific. Poor. (2 copies)
@@ -102,10 +102,53 @@ interurbans railways of the bay area Paul C Trimble. amz $40/63 good
 the key route. part two Harre W Demoro amz $25
 the people's railway. Anthony Perles. amz $31
 
-box4
+box4 42books/$1810  (2 books account for $480)
+Red River: Paul Bunyon's Own Lumber Company and Its Railroads Robert M. Hanft amz $90
+Pictorial Supplement to Denver South Park & Pacific 1959 R. H. Kindig amz $100
+Denver, South Park & Pacific  1976 Meredith Clarence "Mac" Poor amz $240
+Denver, South Park & Pacific   memorial edition Meredith Clarence "Mac" Poor  
+the birney car Harold E Cox amz $20
+Surface Cars of Philadelphia, 1911-1965, Harold E Cox amz $15
+Early Electric Cars of Philadelphia, 1885-1911 Harold E Cox amz $20
+Trolley Trails Through the West Vol. 1: Yakima Valley Robert S. Wilson  amz $20
+Narrow gauge: The story of the Boston, Revere Beach & Lynn Railroad (Bulletin #16) Robert Stanley amz $45
+Utility Cars of Philadelphia, 1892-1971 Harold E. Cox  amz $35
+Brill Deck Roof Trolley Cars Paperback – 1973 Harry Foesig amz $34
+street cars of boston vol2  Cummings  amz $40
+Pacific Electric Railway: a Pictorial Album of Electric Railroading Donald Duke amz $16
+Bonanza Railroads Hardcover – 1954 Gilbert H. Kneiss  amz $10
+Southern California and the Pacific Electric: An album by Danny Howard  amz $10
+Sacramento Northern: Through The Sacramento Valley (Interurbans Spl No. 26) Ira L. Swett amz $15
+trolley trails through the west vol 2  r wilson amz $20
+trolley trails through the west vol 3 r wilson amz $15
+trolley trails through the west vol 4 r wilson amz $10
+Surface Cars of Boston 1903 1963 by Cummings and Cox amz $32
+history of the great western railway being the story of the broad gauge  sekon amz $27hard-new/$14soft-new
+history of the great western railway vol 1 part 2 dermot  abe $40 for parts 1&2
+history of the great western railway  vol 2 abe $12
+model railway engines j e minns amz $10 did not match picture
+model railway engines j e minns amz $10 did not match picture
+The Meon Valley Railway R. A. Stone amz $40
+The Napa Valley Route Electric Trains and Steamers Ira Swett and Harry Aitken amz $25
+The Traction Trilogy:The Interurban Era,The Time of the Trolley, When the Steam Rrs Electrified William Middleton amz $35
+Red Trains in the EastBay:The History of the S.Pacific Transbay Train and FerrySystem (Spl 65) Robert Ford amz $60
+Interurbans without wires: The rail motorcar in the United States (Interurbans spl) Edmund Keilty amz $100
+Mount Lowe, the Railway in the Clouds Charles Seims amz $50
+Tehachapi, Southern Pacific - Santa Fe Hardcover – 1983 John Signor amz $50
+The Mount Lowe pictorial, (The Western traction quarterly) Paperback – 1964 Jeffrey Moreau  amz $12
+Surf, sand & streetcars: A mobile history of Santa Cruz, CA (Interurbans spl) Charles S McCaleb amz $24hard/$5soft
+Those Amazing Cab Forwards (Southern Pacific) George H. Harlan  amz $60-175
+South Pacific Coast:An illustrated history of the narrow gauge SPacificCoast rr, Hard 1968 Bruce MacGrego amz $40
+Henry Huntington and the Pacific Electric: A Pictorial Album Hardcover – 1978 Spencer Crump amz $30
+Ride the Big Red Cars: The Pacific Electric Story Hardcover – 1983 Spencer Crump amz $25
+The White Front Cars of San Francisco (Interurbans Special 44) Charles Smallwood amz $30hard / $20soft
+Interurban Railways of the Bay Area  Paul C. Trimble amz $65-125
+The Key Route, Part 2: Transbay Commuting by Train and Ferry (Interurbans Special 97) 1985 Harre W. Demoro amz $12
+The People's Railway: The History of the Municipal Railway of San Francisco 1981 Anthony Perles amz $24
 
 
-box5
+
+box5 16books - $417
 The Mineral Belt, Volume II - Old South Park David S Digerness amz $69
 The Mineral Belt, Vol. 1: Old South Park- Denver to Leadville  David S Digerness amz $23
 British Locomotives of the 20th Century; Volume 1, 1900-1930 Hardcover – 1988 O.S Nock amz $13
@@ -184,7 +227,7 @@ australia's garratt. Robert Butrims. amz $20
 history of the baldwin locomotive works 1831-1913 amz $90
 record of recent constructions no.25 1901 Balwin Locomotive Works amz $25-50 similar years
 
-box9
+box9 19books - $324
 model railroads Edwin P Alexander  amz $10
 model railroad engineering  Marshall  amz $10 orig, ie not reprint
 rails around the bohemian grove  David F. Myrick   amz $35

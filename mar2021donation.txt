@@ -1,7 +1,6 @@
-585+634+1810+417+611+856+895+324+970+2000 = 9103
-tbd: 3or4
+585+634+1307+650+424+611+856+895+324+970+2000 = 9256
 
-box1 29 books $585
+box1 29books - $585
 the dawn of world railways. 1800-1850. O.S.Nock. $9
 railways in the years of pre-eminence. 1905-19. O.S.Nock. amz $4
 railways in the transition from steam. 1940-1965 O.S.Nock. amz $6
@@ -31,7 +30,7 @@ uintah railway. the gilsenite route. Hnery E Bender. amz $20
 early american locomotives. John H White Jr. amz $16
 prune country railroading (2 copies). Norman W Holmes. amz $55. ***
 
-box2 36 books $634
+box2 36books - $634
 southern pacific daylight vol 1 Richard K Wright. amz $42/ $100 like new
 american locomotive engineering. G Weissenborn amz $16
 southern pacific bay area steam. Harre W Demoro. amz $4/12good
@@ -88,7 +87,7 @@ model railway engines pleasures and treasures J E Minns. amz. $11/7 soft/hard
 The Meon Valley Railway R. A. Stone amz $40
 The Traction Trilogy:The Interurban Era,The Time of the Trolley, When the Steam Rrs Electrified William Middleton amz $35
 
-box4 16books - 
+box4 16books -$650
 Those Amazing Cab Forwards (Southern Pacific) George H. Harlan  amz $60-175
 South Pacific Coast:An illustrated history of the narrow gauge SPacificCoast rr, Hard 1968 Bruce MacGrego amz $40
 Tehachapi, Southern Pacific - Santa Fe Hardcover – 1983 John Signor amz $50
@@ -106,7 +105,7 @@ Interurban Railways of the Bay Area  Paul C. Trimble amz $65-125
 The Mount Lowe pictorial, (The Western traction quarterly) Paperback – 1964 Jeffrey Moreau  amz $12
 Surf, sand & streetcars: A mobile history of Santa Cruz, CA (Interurbans spl) Charles S McCaleb amz $24hard/$5soft
 
-box5 16books - $650
+box5 16books - $424
 The Mineral Belt, Volume II - Old South Park David S Digerness amz $69
 The Mineral Belt, Vol. 1: Old South Park- Denver to Leadville  David S Digerness amz $23
 British Locomotives of the 20th Century; Volume 1, 1900-1930 Hardcover – 1988 O.S Nock amz $13
@@ -124,7 +123,7 @@ the northwestern pacific railroad Fred A Stindt. amz $50
 logging by steam. Lingerwood.  amz $23/$9. new hard/soft
 reservation narrow gauge. John E Lewis. amz $50
 
-box6 23books $611
+box6 23books - $611
 the model railroading handbook.  1975 Robert Schleicher.  amz $2/40. soft/hard
 the complete book of model railroading. David Sutton amz $5
 the encyclopedia of model railroads Terry Allen amz $9 hard
@@ -149,7 +148,7 @@ the iron horse Henry B Comstock. amz $6
 american locomotive engineering companion text. G Weissenborn. amz $16
 railways Howard Loxton. amz $2
 
-box7  17books  $856
+box7  17books - $856
 lenahan's locomotive lexicon. 3rd edn vol II James Lenahan amz $22
 illustrated treasury of bladwin locomotives. 1831-1956. Jmaes W. Ker. amz $16/84. paper/hard prev version to 1936; abe $34 soft
 steamcars to the comstock Beebe Clegg amz $19

@@ -1,3 +1,9 @@
+codes:
+* followed by initials of member who things the book should be kept
+# already in collection (duplicate)
+$ request purchase, followed by initials of member who offeres to buy the book
+$$ purchased (payments go to Karl)
+
 585+634+1307+650+424+611+856+895+324+970+2000 = 9256
 
 box1 29books - $585
@@ -6,62 +12,62 @@ railways in the years of pre-eminence. 1905-19. O.S.Nock. amz $4
 railways in the transition from steam. 1940-1965 O.S.Nock. amz $6
 railways in the formative years. 1851-1895 O.S.Nock. amz $4
 railways at the zenith of steam. 1920-40. O.S.Nock. amz $4
-the argentine central Frank R Hollenback. amz $20/40
+*tb the argentine central Frank R Hollenback. amz $20/40
 vauclain system of compound locomotives. Baldwin Locomotive Works amz $5
 vulcan locomotives. edn N 1916 amz (1913 edn M is $195)
 preserved steam railways of britain. Golin Garr???  amz $10
 steam in the landscape Westcott Jones. amz $5
 preserved locomotives. H.C.Casserley. amz $7
 ten spikes to the rail. John Roger Twohy. amz $40
-colorado's mountain railroads. ?? Robert A. Le Massena?? vol1 1963  amz $14 
+*tb colorado's mountain railroads. ?? Robert A. Le Massena?? vol1 1963  amz $14 
 how to drive a steam locomotive. Brian Hollingsworth. amz $5 paper $50 hard
 passenger terminals and trains. John A Droege. amz $22
 early railways. ??Snell??  amz $5/8  soft/hard
 redwood classic. panorama of a century amz $5
-the story of the california western skunk railroad. Spencer Crump amz $11
+*tb the story of the california western skunk railroad. Spencer Crump amz $11
 glory days of logging. Ralph W Andrews. amz $3.50
-california history. railroads in california and the far west. spr 1991.  amz $7
-super power steam locomotives. Richard J Cook amz $4
-the crookedest railroad in the world.(2 copies)  Ted Wurm & Al Graves. amz $10 **
+$js california history. railroads in california and the far west. spr 1991.  amz $7
+*tb super power steam locomotives. Richard J Cook amz $4
+# the crookedest railroad in the world.(2 copies)  Ted Wurm & Al Graves. amz $10 **
 early american steam locomotives. Reed Kinert. amz $11/3. soft/hard
 walkaround model railroad track plans. Don Mitchell. amz $35
 a treasury of model railroad photos Frary Furlow Olson Scoles. amz $5
-uintah railway. the gilsenite route. Hnery E Bender. amz $20
+*tb uintah railway. the gilsenite route. Hnery E Bender. amz $20
 early american locomotives. John H White Jr. amz $16
-prune country railroading (2 copies). Norman W Holmes. amz $55. ***
+*tb prune country railroading (2 copies). Norman W Holmes. amz $55. ***
 
 box2 36books - $634
-southern pacific daylight vol 1 Richard K Wright. amz $42/ $100 like new
+*tb southern pacific daylight vol 1 Richard K Wright. amz $42/ $100 like new
 american locomotive engineering. G Weissenborn amz $16
-southern pacific bay area steam. Harre W Demoro. amz $4/12good
-pine across the mountain Robert M Hauft. amz $42
-thunder in the mountains  Hank Johnston. amz $16
-slim rails through the sand. George Turner (2 copies). $28 1963/$90 1964
-the 4300 4-8-2's. Robert J Church amz $40
-pino grande. R S Polkinghorn. amz $30/60 soft hard 1984.  $20 soft 1984 diff cover. $55 1966 w/ inscribed by author
-last of the 3 foot loggers Allen Krieg. amz $11
-steam switchers of the southern pacific. three barrels of stem Gene Deimling
-steam switchers of the southern pacific. Gene Deimling. $11
-diesels of the espee vol 1. alco pa's.  Cortani Lloyd Strapac amz $18
+*tb southern pacific bay area steam. Harre W Demoro. amz $4/12good
+*tb pine across the mountain Robert M Hauft. amz $42
+*tb thunder in the mountains  Hank Johnston. amz $16
+*tb slim rails through the sand. George Turner (2 copies). $28 1963/$90 1964
+*tb the 4300 4-8-2's. Robert J Church amz $40
+*tb pino grande. R S Polkinghorn. amz $30/60 soft hard 1984.  $20 soft 1984 diff cover. $55 1966 w/ inscribed by author
+*tb last of the 3 foot loggers Allen Krieg. amz $11
+*tb steam switchers of the southern pacific. three barrels of stem Gene Deimling
+*tb steam switchers of the southern pacific. Gene Deimling. $11
+*tb diesels of the espee vol 1. alco pa's.  Cortani Lloyd Strapac amz $18
 equipment circular no. 14. Southern Pacific Company 1946 (reprinted). amz $16
 car names numbers and consists  Robert J. Wayner. amz $95
-steam locomotives southern pacific. Donald Duke amz $6
+*tb steam locomotives southern pacific. Donald Duke amz $6
 america's bicentennial queen engine 4449. Richard K Wright amz $3
-southern pacific review 1981. Joseph A Strapac amz $17
-4-8-4's daylight Robert J Church amz $43
+*tb southern pacific review 1981. Joseph A Strapac amz $17
+*tb 4-8-4's daylight Robert J Church amz $43
 treasure island. Richard Reinhardt. amz. $2/$6. soft/hard
 the forth railway bridge. Simon Murray, Anthony; Maclean, Charles; Scott amz $20
-southern pacific's mountain classed mt-5 steam locomotives. Richard K Wright amz $26
-southern pacific 1966-1967 motive power annual Joseph A. Strapac  amz $49
-short line to paradise Hank Johnston. amz $4/25 soft/hard
-southern pacific 1967-1968 motive power annual Joseph A. Strapac  amz $45
-sawmills in the redwoods. Frank M Stranger amz. $20/80. 
+*tb southern pacific's mountain classed mt-5 steam locomotives. Richard K Wright amz $26
+*tb southern pacific 1966-1967 motive power annual Joseph A. Strapac  amz $49
+*tb short line to paradise Hank Johnston. amz $4/25 soft/hard
+*tb southern pacific 1967-1968 motive power annual Joseph A. Strapac  amz $45
+$js sawmills in the redwoods. Frank M Stranger amz. $20/80. 
 over the loop to the summit of mount mcclellan. Tammen amz $8
 
 box3  27books - $1307
 Red River: Paul Bunyon's Own Lumber Company and Its Railroads Robert M. Hanft amz $90
 Pictorial Supplement to Denver South Park & Pacific 1959 R. H. Kindig amz $100
-Denver, South Park & Pacific  1976 Meredith Clarence "Mac" Poor amz $240
+*tb Denver, South Park & Pacific  1976 Meredith Clarence "Mac" Poor amz $240
 Denver, South Park & Pacific   memorial edition Meredith Clarence "Mac" Poor  
 the birney car Harold E Cox amz $20
 Surface Cars of Philadelphia, 1911-1965, Harold E Cox amz $15
@@ -71,11 +77,11 @@ Narrow gauge: The story of the Boston, Revere Beach & Lynn Railroad (Bulletin #1
 Utility Cars of Philadelphia, 1892-1971 Harold E. Cox  amz $35
 Brill Deck Roof Trolley Cars Paperback – 1973 Harry Foesig amz $34
 street cars of boston vol2  Cummings  amz $40
-Pacific Electric Railway: a Pictorial Album of Electric Railroading Donald Duke amz $16
-Bonanza Railroads Hardcover – 1954 Gilbert H. Kneiss  amz $10
+*tb Pacific Electric Railway: a Pictorial Album of Electric Railroading Donald Duke amz $16
+# Bonanza Railroads Hardcover – 1954 Gilbert H. Kneiss  amz $10
 Southern California and the Pacific Electric: An album by Danny Howard  amz $10
-Sacramento Northern: Through The Sacramento Valley (Interurbans Spl No. 26) Ira L. Swett amz $15
-trolley trails through the west vol 2  r wilson amz $20
+*tb Sacramento Northern: Through The Sacramento Valley (Interurbans Spl No. 26) Ira L. Swett amz $15
+trolley trails through the west vol 2 r wilson amz $20
 trolley trails through the west vol 3 r wilson amz $15
 trolley trails through the west vol 4 r wilson amz $10
 Surface Cars of Boston 1903 1963 by Cummings and Cox amz $32
@@ -88,38 +94,38 @@ The Meon Valley Railway R. A. Stone amz $40
 The Traction Trilogy:The Interurban Era,The Time of the Trolley, When the Steam Rrs Electrified William Middleton amz $35
 
 box4 16books -$650
-Those Amazing Cab Forwards (Southern Pacific) George H. Harlan  amz $60-175
-South Pacific Coast:An illustrated history of the narrow gauge SPacificCoast rr, Hard 1968 Bruce MacGrego amz $40
-Tehachapi, Southern Pacific - Santa Fe Hardcover – 1983 John Signor amz $50
+*tb Those Amazing Cab Forwards (Southern Pacific) George H. Harlan  amz $60-175
+# South Pacific Coast:An illustrated history of the narrow gauge SPacificCoast rr, Hard 1968 Bruce MacGrego amz $40
+# Tehachapi, Southern Pacific - Santa Fe Hardcover – 1983 John Signor amz $50
 the interurban era. William D Middleton. amz $45 v good. (do we have 2 copies?)
 Mount Lowe, the Railway in the Clouds Charles Seims amz $16 to 50
-The Napa Valley Route Electric Trains and Steamers Ira Swett and Harry Aitken amz $25
-Ride the Big Red Cars: The Pacific Electric Story Hardcover – 1983 Spencer Crump amz $25
+# The Napa Valley Route Electric Trains and Steamers Ira Swett and Harry Aitken amz $25
+# Ride the Big Red Cars: The Pacific Electric Story Hardcover – 1983 Spencer Crump amz $25
 Henry Huntington and the Pacific Electric: A Pictorial Album Hardcover – 1978 Spencer Crump amz $13-30
-The People's Railway: The History of the Municipal Railway of San Francisco 1981 Anthony Perles amz $24-31
+*tb The People's Railway: The History of the Municipal Railway of San Francisco 1981 Anthony Perles amz $24-31
 The Key Route, Part 2: Transbay Commuting by Train and Ferry (Interurbans Special 97) 1985 Harre W. Demoro amz $12-25
-Red Trains in the EastBay:The History of the S.Pacific Transbay Train and FerrySystem (Spl 65) Robert Ford amz $60-95
-Interurbans without wires: The rail motorcar in the United States (Interurbans spl) Edmund Keilty amz $100. amz $40 new
-The White Front Cars of San Francisco (Interurbans Special 44) Charles Smallwood amz $30hard / $20soft
-Interurban Railways of the Bay Area  Paul C. Trimble amz $65-125
+# Red Trains in the EastBay:The History of the S.Pacific Transbay Train and FerrySystem (Spl 65) Robert Ford amz $60-95
+# Interurbans without wires: The rail motorcar in the United States (Interurbans spl) Edmund Keilty amz $100. amz $40 new
+# The White Front Cars of San Francisco (Interurbans Special 44) Charles Smallwood amz $30hard / $20soft
+# Interurban Railways of the Bay Area  Paul C. Trimble amz $65-125
 The Mount Lowe pictorial, (The Western traction quarterly) Paperback – 1964 Jeffrey Moreau  amz $12
 Surf, sand & streetcars: A mobile history of Santa Cruz, CA (Interurbans spl) Charles S McCaleb amz $24hard/$5soft
 
 box5 16books - $424
-The Mineral Belt, Volume II - Old South Park David S Digerness amz $69
-The Mineral Belt, Vol. 1: Old South Park- Denver to Leadville  David S Digerness amz $23
+*tb The Mineral Belt, Volume II - Old South Park David S Digerness amz $69
+*tb The Mineral Belt, Vol. 1: Old South Park- Denver to Leadville  David S Digerness amz $23
 British Locomotives of the 20th Century; Volume 1, 1900-1930 Hardcover – 1988 O.S Nock amz $13
 British Locomotives of the 20th Century: Vol.2: 1930-1960 Hardcover – 1984O. S. Nock amz $13
-Western Pacific Steam Locomotives, Passenger Trains, and Cars Hardcover. amz $40
-Redwoods, Iron Horses, and the Pacific. The Story of the Western Pacific "Skunk" Railroad.Crump, Spencer amz $11
-Colorado Rail Annual No. 12: The South Park Line, A Concise History. Colorado RR Museum amz $15
+*tb Western Pacific Steam Locomotives, Passenger Trains, and Cars Hardcover. amz $40
+# Redwoods, Iron Horses, and the Pacific. The Story of the Western Pacific "Skunk" Railroad.Crump, Spencer amz $11
+*tb Colorado Rail Annual No. 12: The South Park Line, A Concise History. Colorado RR Museum amz $15
 the railroad saga. Jeff Keenan. amz $6
-rails sagebrush and pine. Mallory Ferrel 1990. amz $37 for 1967 version. // no listing for 1990. abe $4 - no year given
-snowplow. Gerald M Best. amz $12/20 hard/soft
-railroads of the yosemite valley. Hank Johnston 1980. $8/10  hard/soft. we have hard
+*tb rails sagebrush and pine. Mallory Ferrel 1990. amz $37 for 1967 version. // no listing for 1990. abe $4 - no year given
+*tb snowplow. Gerald M Best. amz $12/20 hard/soft
+*tb railroads of the yosemite valley. Hank Johnston 1980. $8/10  hard/soft. we have hard
 colorado rail annual. number nine. amz $9
 stairways to the stars Dan Abbott amz $40
-the northwestern pacific railroad Fred A Stindt. amz $50
+*tb the northwestern pacific railroad Fred A Stindt. amz $50
 logging by steam. Lingerwood.  amz $23/$9. new hard/soft
 reservation narrow gauge. John E Lewis. amz $50
 
@@ -130,41 +136,41 @@ the encyclopedia of model railroads Terry Allen amz $9 hard
 0026N l g b.   Robert Munzing. amz $132 abe $54/0ship
 model railroading with L G B. Robert Schleicher. amz $5   cover photo is generic
 the collector's book of the locomotive. Edwin P Alexander. amz $16 cover photo is generic
-the central pacific & the southern pacific railroads. Beebe amz $13
-diagrams of locomotives and tenders. Southern Pacific Company. amz $130
+*tb the central pacific & the southern pacific railroads. Beebe amz $13
+*tb diagrams of locomotives and tenders. Southern Pacific Company. amz $130
 American Railroad Journal 1966 Donald Duke, Gerald M. Best,  amz $6
 american locomotives. 1900-1950 Edwin P Alexander. amz $4
 the steam locomotive Luciano Greggio, Peter Kalla-Bishop. amz $8 v ood abe $13+$13 ship
 narrow gauge nostalgia  George Turner. amz $27
-norfolk western steam in color. McClure Plant. amz $190
+*tb norfolk western steam in color. McClure Plant. amz $190
 Robert Stephenson: An Illustrated Life of Robert Stephenson   Donald J Smith amz $20 abe $5/5ship
 locomotive advertising in america. 1850-1900.  Americana Review amz $2/10 soft hard
 railway passenger travel. 1825-1880. Chandler Press. amz $4/20. soft/hard
-western steam pictorial   Dunscomb. amz. $18/24 soft/hard
+*tb western steam pictorial   Dunscomb. amz. $18/24 soft/hard
 pacific railway journal steam locomotive of the denver & rio grande western. Duke Warner amz $10
-crookedest railroad in the world. Wurm Graves. amz $25-40. no match to cover (amz shows 1960 w/ no img)
-model railway engines. pleasures and treasures. J E Minns  amz $11/7 soft/hard 1969
+# crookedest railroad in the world. Wurm Graves. amz $25-40. no match to cover (amz shows 1960 w/ no img)
+$db model railway engines. pleasures and treasures. J E Minns  amz $11/7 soft/hard 1969
 the iron horse Henry B Comstock. amz $6
 american locomotive engineering companion text. G Weissenborn. amz $16
 railways Howard Loxton. amz $2
 
 box7  17books - $856
 lenahan's locomotive lexicon. 3rd edn vol II James Lenahan amz $22
-illustrated treasury of bladwin locomotives. 1831-1956. Jmaes W. Ker. amz $16/84. paper/hard prev version to 1936; abe $34 soft
-steamcars to the comstock Beebe Clegg amz $19
-the willamette locomotive steve hauff. amz $40/50 soft/hard
-climax -an unusual steam locomotive  Thomas T Taber III, Walter Casler amz $75
-the heisler locomotive. Benjamin F.G. Kline 1982 end. amz $48
-viginia & truckee locomotives.  Karl R. Koenig  amz $8
-The Shay Locomotive: Titan of the Timber  Michael Koch  amz $275. abe $275
+*tb illustrated treasury of bladwin locomotives. 1831-1956. Jmaes W. Ker. amz $16/84. paper/hard prev version to 1936; abe $34 soft
+*tb steamcars to the comstock Beebe Clegg amz $19
+*tb the willamette locomotive steve hauff. amz $40/50 soft/hard
+*tb climax -an unusual steam locomotive  Thomas T Taber III, Walter Casler amz $75
+*tb the heisler locomotive. Benjamin F.G. Kline 1982 end. amz $48
+*tb viginia & truckee locomotives.  Karl R. Koenig  amz $8
+*tb The Shay Locomotive: Titan of the Timber  Michael Koch  amz $275. abe $275
 the great northern railway -a pictorial study. Wood amz $39
-Railroads of Nevada and Eastern California, Vol. 2 David F. Myrick  amz $38
+*tb Railroads of Nevada and Eastern California, Vol. 2 David F. Myrick  amz $38
 In Search of Steam Donkeys: Logging Equipment in Oregon. Merv Johnson amz $84
-Thunder in the Mountains: The Life and Times of Madera Sugar Pine. Hank Johnston amz $12
-pacific coast shay. Dan Ranger, Jr.  amz $13
-mallets on the mendocino coast. Ted Wurm. amz $9
-rails in the mother lode. Adolf Hungrywolf.  amz not avail abe $9/4ship
-southern pacific lines steam locomotive compendium Diebert Strapac.  amz no match abe $105
+# Thunder in the Mountains: The Life and Times of Madera Sugar Pine. Hank Johnston amz $12
+# pacific coast shay. Dan Ranger, Jr.  amz $13
+*tb mallets on the mendocino coast. Ted Wurm. amz $9
+# rails in the mother lode. Adolf Hungrywolf.  amz not avail abe $9/4ship
+*tb southern pacific lines steam locomotive compendium Diebert Strapac.  amz no match abe $105
 railroads in the woods  John T. Labbe, Vernon Goe  amz $15
 
 box8 15books - $895
@@ -174,9 +180,9 @@ illustrated treasury of the american locomotive company. O. M Kerr amz $52 for 2
 the mallet locomotive. A.E.Durrant. 1974 amz $75
 american locomotives. John H White. amz $50/good
 iron horses  1829-1900 E.P.Alexander. amz $6  reprint or orig
-railroads of nevada vol 1. David F. Myrick  amz $14
-nevada county narrow gauge.  Gerald M. Best   amz $9
-the mineral belt vol III. David S. Digerness  amz $115
+*tb railroads of nevada vol 1. David F. Myrick  amz $14
+*tb nevada county narrow gauge.  Gerald M. Best   amz $9
+*tb the mineral belt vol III. David S. Digerness  amz $115
 garratt locomotives of the world. A. E. Durrant  amz $46/39. 1981/1988
 baldwin locomotive works illustrated catalogue 1881 dated in pencil 1915  $300-500
 baldwin locomotive works illustrated catalogue. 25 1960 reprint howell-north
@@ -188,43 +194,43 @@ box9 19books - $324
 model railroads Edwin P Alexander  amz $10
 model railroad engineering  Marshall  amz $10 orig, ie not reprint
 rails around the bohemian grove  David F. Myrick   amz $35
-short line to paradise  Hank Johnson 1971  amz $10
+# short line to paradise  Hank Johnson 1971  amz $10
 preserved locomotives H.C.Casserley amz $7
 the pictorial encyclopedia of railways  Hamilton Ellis  amz $8
-sierra railway Dorothy Newell Deane amz $9
+*tb sierra railway Dorothy Newell Deane amz $9
 redwood railways Gilbert H Kneiss amz $13
 southern pacific  Wilson Taylor  amz $8
-the northern pacific main street of the northwest  Charles R Wood amz $10
+*tb the northern pacific main street of the northwest  Charles R Wood amz $10
 missing  - yellow bottom
 logging railroads of the west Kramer Adams amz $6
 the world of model trains Guy R Williams  amz $5
 the model railroader cyclopedia the book of plans 5th edn amz $14
 rails west George B Abdill  amz $5
-lines west  Charles R Wood amz $6
+*tb lines west  Charles R Wood amz $6
 pacific slope railroads George B Abdill amz $6
 north american steam locomotive the mountains  Farrell Pearsall  amz $90 abe $49
-northern pacific railway a pictorial history  Charles R Wood  amz $10 abe $13/0ship
+*tb northern pacific railway a pictorial history  Charles R Wood  amz $10 abe $13/0ship
 the crampton locomotive M Sharman  amz $246  abe 80/20ship
 
 box10 18books - $970
 Cab-Forward: The Story of Southern Pacific Articulated Locomotives. Robert J Church amz $149
-Cab-Forward: The Story of Southern Pacific Articulated Locomotives. revised edition  Robert J Church abe $175
+*tb Cab-Forward: The Story of Southern Pacific Articulated Locomotives. revised edition  Robert J Church abe $175
 model railroading with john allen. Westcott. amz $65-good/60-good hard/soft
-narrow gauge to the redwoods.  A Bray Dickinson. amz $14 1967/ $50 1970 2nd edn  CHECK!  $43 reprint (ours is original)
+# narrow gauge to the redwoods.  A Bray Dickinson. amz $14 1967/ $50 1970 2nd edn  CHECK!  $43 reprint (ours is original)
 steam&thunder in the timber. Michael Koch. amz $99. abe $75/8ship
-west side narrow gauge in the sierra.  Mallory Hope Ferrell amz $32
-the whistles blow no more Hank Johnston amz $8
-the union pacific streamliners. Kratville Ranks. amz $140. abe $40
+*tb west side narrow gauge in the sierra.  Mallory Hope Ferrell amz $32
+*tb the whistles blow no more Hank Johnston amz $8
+*tb the union pacific streamliners. Kratville Ranks. amz $140. abe $40
 iron horses to promotory Gerald M Best amz $15
-narrow gauge portrait south pacific coast Bruce A MacGregor amz $20
-the union pacific streamliners William Kratville and Harold Ranks amz $40 abe $80
+*tb narrow gauge portrait south pacific coast Bruce A MacGregor amz $20
+# the union pacific streamliners William Kratville and Harold Ranks amz $40 abe $80
 south pacific coast a centennial. Bruce A MacGregor. Richard Truesdale amz $30
 high road to promontory George Kraus amz $14
 across the sierras in winter California Historical Society amz $7
-The Last Whistle: Ocean Shore Railroad Hardcover Jack R. Wagner  amz $23
-diagrams of locomotives and tenders. Southern Pacific Company. amz $130
+*tb The Last Whistle: Ocean Shore Railroad Hardcover Jack R. Wagner  amz $23
+# $ni diagrams of locomotives and tenders. Southern Pacific Company. amz $130
 the northwestern pacific railroad. vol two Fred A. Stindt amz $54
-california central coast railways  Rick Hamman amz $23
+*tb california central coast railways  Rick Hamman amz $23
 
 box11 7books - $280
 american narrow guage railroads. George W Hilton.  amz 25/13. hard/soft

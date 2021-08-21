@@ -199,7 +199,7 @@ preserved locomotives H.C.Casserley amz $7
 the pictorial encyclopedia of railways  Hamilton Ellis  amz $8
 *tb sierra railway Dorothy Newell Deane amz $9
 redwood railways Gilbert H Kneiss amz $13
-southern pacific  Wilson Taylor  amz $8
+$$lc southern pacific  Wilson Taylor  amz $8
 *tb the northern pacific main street of the northwest  Charles R Wood amz $10
 missing  - yellow bottom
 logging railroads of the west Kramer Adams amz $6

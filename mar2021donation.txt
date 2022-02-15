@@ -1,5 +1,6 @@
 codes:
-* followed by initials of member who things the book should be kept
+* followed by initials of member who thinks the book should be kept
+?? followed by initials of member who suggests the book might be kept
 # already in collection (duplicate)
 $ request purchase, followed by initials of member who offeres to buy the book
 $$ purchased (payments go to Karl)
@@ -23,9 +24,9 @@ ten spikes to the rail. John Roger Twohy. amz $40
 how to drive a steam locomotive. Brian Hollingsworth. amz $5 paper $50 hard
 passenger terminals and trains. John A Droege. amz $22
 early railways. ??Snell??  amz $5/8  soft/hard
-redwood classic. panorama of a century amz $5
+??js redwood classic. panorama of a century amz $5
 *tb the story of the california western skunk railroad. Spencer Crump amz $11
-glory days of logging. Ralph W Andrews. amz $3.50
+??js glory days of logging. Ralph W Andrews. amz $3.50
 $js california history. railroads in california and the far west. spr 1991.  amz $7
 *tb super power steam locomotives. Richard J Cook amz $4
 # the crookedest railroad in the world.(2 copies)  Ted Wurm & Al Graves. amz $10 **
@@ -38,31 +39,26 @@ early american locomotives. John H White Jr. amz $16
 
 box2 36books - $634
 *tb southern pacific daylight vol 1 Richard K Wright. amz $42/ $100 like new
-american locomotive engineering. G Weissenborn amz $16
 *tb southern pacific bay area steam. Harre W Demoro. amz $4/12good
 *tb pine across the mountain Robert M Hauft. amz $42
 *tb thunder in the mountains  Hank Johnston. amz $16
-*tb slim rails through the sand. George Turner (2 copies). $28 1963/$90 1964
+*tb slim rails through the sand. George Turner (second of 2 copies). $28 1963/$90 1964
 *tb the 4300 4-8-2's. Robert J Church amz $40
 *tb pino grande. R S Polkinghorn. amz $30/60 soft hard 1984.  $20 soft 1984 diff cover. $55 1966 w/ inscribed by author
 *tb last of the 3 foot loggers Allen Krieg. amz $11
 *tb steam switchers of the southern pacific. three barrels of stem Gene Deimling
 *tb steam switchers of the southern pacific. Gene Deimling. $11
 *tb diesels of the espee vol 1. alco pa's.  Cortani Lloyd Strapac amz $18
-equipment circular no. 14. Southern Pacific Company 1946 (reprinted). amz $16
-car names numbers and consists  Robert J. Wayner. amz $95
 *tb steam locomotives southern pacific. Donald Duke amz $6
-america's bicentennial queen engine 4449. Richard K Wright amz $3
 *tb southern pacific review 1981. Joseph A Strapac amz $17
 *tb 4-8-4's daylight Robert J Church amz $43
-treasure island. Richard Reinhardt. amz. $2/$6. soft/hard
-the forth railway bridge. Simon Murray, Anthony; Maclean, Charles; Scott amz $20
 *tb southern pacific's mountain classed mt-5 steam locomotives. Richard K Wright amz $26
 *tb southern pacific 1966-1967 motive power annual Joseph A. Strapac  amz $49
 *tb short line to paradise Hank Johnston. amz $4/25 soft/hard
 *tb southern pacific 1967-1968 motive power annual Joseph A. Strapac  amz $45
 $js sawmills in the redwoods. Frank M Stranger amz. $20/80. 
-over the loop to the summit of mount mcclellan. Tammen amz $8
+-missing- over the loop to the summit of mount mcclellan. Tammen amz $8
+*js 4-10-2 three barrels of steam James E Boynton. amz $37
 
 box3  27books - $1307
 Red River: Paul Bunyon's Own Lumber Company and Its Railroads Robert M. Hanft amz $90
@@ -202,7 +198,7 @@ redwood railways Gilbert H Kneiss amz $13
 $$lc southern pacific  Wilson Taylor  amz $8
 *tb the northern pacific main street of the northwest  Charles R Wood amz $10
 missing  - yellow bottom
-logging railroads of the west Kramer Adams amz $6
+*js logging railroads of the west Kramer Adams amz $6
 the world of model trains Guy R Williams  amz $5
 the model railroader cyclopedia the book of plans 5th edn amz $14
 rails west George B Abdill  amz $5
@@ -240,6 +236,14 @@ the pictorial encyclopedia of railways. Hamilton Ellis amz $8
 short line to paradise Hank Johnston. amz $25/4 hard/soft
 building the pacific railway. Edwin L Sabin. abe $20/0ship
 The Union Pacific Railroad a trip across the North American continent from Omaha to Ogden (1871) original amz $80-150 abe $9 reprint
+added from box2 on feb 14 2022:
+american locomotive engineering. G Weissenborn amz $16
+slim rails through the sand. George Turner (1 of 2 copies). $28 1963/$90 1964
+equipment circular no. 14. Southern Pacific Company 1946 (reprinted). amz $16
+car names numbers and consists  Robert J. Wayner. amz $95
+america's bicentennial queen engine 4449. Richard K Wright amz $3
+treasure island. Richard Reinhardt. amz. $2/$6. soft/hard
+the forth railway bridge. Simon Murray, Anthony; Maclean, Charles; Scott amz $20
 
 box12 7books - $2000
 Reports of Explorations and Survey to Ascertain the Most Practicable and Economical Route 
